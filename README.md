@@ -8,3 +8,12 @@ This Streamlit-based web application combines data analysis, exploratory data an
 2. Model Building: Multiple machine learning models with customizable hyperparameters
 3. Evaluation Metrics: Comprehensive model evaluation metrics
 4. Streamlit Web App: User-friendly interface for making real-time fraud predictions based on user input.
+
+## Requirements
+1. Pandas
+2. seaborn
+3. streamlit
+4. scikit-learn
+5. matplotlib
+6. plotly
+7. imblearn
