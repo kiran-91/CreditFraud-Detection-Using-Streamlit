@@ -42,7 +42,7 @@ if "hyperparameters" not in st.session_state:
 # Load and preprocess data
 @st.cache_data
 def load_data():
-    df = pd.read_csv("E:\GenAI\CreditChurn\creditCardFraud_28011964_120214.csv")
+    df = pd.read_csv("creditCardFraud_28011964_120214.csv")
     df.rename(columns={"PAY_0": "PAY_1"}, inplace=True)
     return df
 
