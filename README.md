@@ -47,4 +47,7 @@ streamlit run app.py
 
 ## Results 
 If you're on Team Lazy like me and would rather skip all the tasks, no worries—just kick back and check out the Streamlit app right here!
+```
+https://credit-fraud.streamlit.app/
+```
 
