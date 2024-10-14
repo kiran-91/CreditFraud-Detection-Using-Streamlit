@@ -743,9 +743,9 @@ elif nav=="Future":
     st.info('''
             Things under development 
             - Develop a flexible web application for dataset ingestion and streamlined execution of machine learning project lifecycle stages.
-            - Currently, the Python code requires a full re-run with each modification, which is inefficient. To address this, I am  planning to implement a multipage architecture, dividing the ML model building process into distinct stages, each on a separate page.
+            - Currently, the Python code requires a full re-run with each modification in the Streamlit app, which is inefficient. To address this, I am  planning to implement a multipage architecture, dividing the ML model building process into distinct stages, each on a separate page.
             - Implement diverse strategies for managing null values, encoding categorical data, and removal of sampling techniques(employed in this project) 
-            - Integrate all applicable hyperparameters from scikit-learn, enabling users to customize and select optimal parameter values.
+            - Integrate all available hyperparameters defined in the scikit-learn documentation, enabling users to customize and select optimal parameter values.
             - Introducing PandasProfiling to facilitate advanced exploratory data analysis capabilities.
             - Introducing Artificial Neural Networks(MultiLayer Perceptron)
             '''
