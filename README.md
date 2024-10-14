@@ -17,3 +17,34 @@ This Streamlit-based web application combines data analysis, exploratory data an
 5. matplotlib
 6. plotly
 7. imblearn
+
+## Installation
+To run the project locally, follow these steps:
+
+1. Clone the repository:
+
+```cmd
+git clone https://https://github.com/kiran-91/CreditFraud-Detection-Using-Streamlit.git
+cd CreditFraud-Detection-Using-Streamlit
+```
+
+2. Setup a virtual environment (optional but recommended)
+```cmd
+python -m venv venv
+source venv/bin/activate  # For Linux/MacOS
+venv\Scripts\activate  # For Windows
+```
+
+3. Install required dependencies
+```cmd
+pip install -r requirements.txt
+```
+
+4. Run the streamlit app
+```cmd
+streamlit run app.py
+```
+
+## Results 
+If you're on Team Lazy like me and would rather skip all the tasks, no worries—just kick back and check out the Streamlit app right here!
+
