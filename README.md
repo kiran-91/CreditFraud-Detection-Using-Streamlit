@@ -50,4 +50,21 @@ If you're on Team Lazy like me and would rather skip all the tasks, no worriesâ€
 ```
 https://credit-fraud.streamlit.app/
 ```
+## Usage 
+This Streamlit-powered platform helps detect credit card default risk using multiple machine learning models. Below are the steps to navigate and use the app
 
+1. Explore the Dataset:
+Head over to the "Explore the Dataset" tab to view the dataset. You can interact with the dataset and better understand the underlying data.
+
+2. EDA:
+In the "EDA" section, perform an exploratory analysis using visualizations such as bar charts, histograms, and more to extract insights from the dataset.
+
+3. ML Model:
+Switch to the "ML Model" tab to use various machine learning models of your choice for credit card default prediction.
+Enhance model accuracy by applying sampling techniques for data balancing, adjusting hyperparameters, and input values. If unchanged, default settings will be used. Review performance metrics, including accuracy, precision, recall, and additional indicators
+
+4. Future:
+Explore the ideas for future improvements and potential features that could be added.
+
+5. Easter Egg:
+Click on the "Easter Egg" button for a hidden surprise!
