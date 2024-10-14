@@ -24,7 +24,7 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
 ```cmd
-git clone https://https://github.com/kiran-91/CreditFraud-Detection-Using-Streamlit.git
+git clone https://github.com/kiran-91/CreditFraud-Detection-Using-Streamlit.git
 cd CreditFraud-Detection-Using-Streamlit
 ```
 
