@@ -68,3 +68,7 @@ Explore the ideas for future improvements and potential features that could be a
 
 5. Easter Egg:
 Click on the "Easter Egg" button for a hidden surprise!
+
+![Screenshot 2024-10-14 201027](https://github.com/user-attachments/assets/15a694b9-1892-4482-ac54-05069304dd37)
+
+
